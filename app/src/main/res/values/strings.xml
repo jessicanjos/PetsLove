@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PetsLove</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="insira_o_usu_rio">Insira o usuário</string>
+    <string name="senha">Senha</string>
+    <string name="insira_a_senha">Insira a senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+</resources>
